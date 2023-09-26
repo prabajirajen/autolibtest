@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/css/button_css.css" />
 <!-- DW6 -->
 
-<head>
+<head>AutoLib Software </h1>
 <!-- 
 
 **********  index.jsp   *********
