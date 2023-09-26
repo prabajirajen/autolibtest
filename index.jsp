@@ -10,6 +10,7 @@
   <h1>John Britto</h1>
 
   one time resolve
+  two time resolve
 <!-- 
 
 **********  index.jsp   *********
