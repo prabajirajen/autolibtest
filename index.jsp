@@ -10,8 +10,7 @@
 **********  index.jsp   *********
 
 Copyright 2005 Macromedia, Inc. All rights reserved. -->
-<title>SASTRA Deemed University-Central Library</title>
-<title>SASTRA Deemed University-Tanjore</title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="stylesheet" href="mm_travel2.css" type="text/css" />
 
