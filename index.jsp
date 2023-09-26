@@ -5,6 +5,8 @@
 <!-- DW6 -->
 
 <head>AutoLib Software </h1>
+
+  one time resolve
 <!-- 
 
 **********  index.jsp   *********
